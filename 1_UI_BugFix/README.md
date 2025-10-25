@@ -11,4 +11,4 @@ Fixed the event binding and verified responsive layout.
 
 **Tech Used:** SAP UI5 1.71.73 | XML Views | JSON Model  
 **Time** = 2 hours  
-**Output** = 
+**Output** = /images/ui_bug_fix.png
